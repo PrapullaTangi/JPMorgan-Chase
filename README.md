@@ -74,3 +74,4 @@ curl http://localhost:33400/balance?userId=5
 
 ## Certificate
 
+[View my JPMC certificate](./JP.pdf)
