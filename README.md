@@ -1,4 +1,4 @@
-# MIDAS Core — JPMorgan Chase Forage Project
+# MIDAS Core — JPMorgan Chase
 
 A real-time financial transaction processing system built as part of the **JPMorgan Chase Software Engineering Virtual Experience** on Forage.
 
